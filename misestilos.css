@@ -1,0 +1,28 @@
+body {
+    font-size: 35px;
+}
+
+body {
+    background-color: bisque;
+}
+
+h2 {
+    background-color: rgb(235, 185, 93);
+}
+
+h3 {
+    color: #000000;
+}
+body {
+    font-style: italic;
+}
+input[type="submit"] {
+    width: 150px;
+    /* Ancho del botón */
+    height: 50px;
+    /* Alto del botón */
+    font-size: 20px;
+    /* Tamaño de la fuente */
+    background-color: rgb(238, 159, 14);
+    /* Color de fondo del botón */
+}
